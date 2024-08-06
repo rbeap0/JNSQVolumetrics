@@ -1,4 +1,4 @@
-## All configs and textures in JNSQVolumetrics are labled under CC-BY-NC-SA 4.0
+## All configs and textures in JNSQVolumetrics are licensed under CC-BY-NC-SA 4.0
 
  You are free to:
 
