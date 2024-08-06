@@ -28,4 +28,5 @@ Volumetric clouds & new atmospheres for JNSQ
 - https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss
 - Aurora textures
 - https://www.patreon.com/ballisticfox
+- https://github.com/themaster402/AstronomersVisualPack
 
