@@ -2,6 +2,10 @@
 
 Volumetric clouds & new atmospheres for JNSQ
 
+# Disclaimer: Development Branch
+## This is the development branch of the mod, containing experimental features and updates that are actively in progress. The mod in this branch may be unstable, incomplete, or undergo significant changes without notice.
+### Use with caution. For a stable experience, please use the main branch.
+
 ![image](https://i.imgur.com/Pc5DssS.png)
 
 
