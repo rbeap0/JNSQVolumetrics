@@ -1,27 +1,26 @@
 # JNSQ Volumetrics
-
-Volumetric clouds & new atmospheres for JNSQ
+*True Volumetric clouds & new atmospheres for JNSQ*
 
 # Disclaimer: Development Branch
-## This is the development branch of the mod, containing experimental features and updates that are actively in progress. The mod in this branch may be unstable, incomplete, or undergo significant changes without notice.
-### Use with caution. For a stable experience, please use the main branch.
+### This is the development branch of the mod, containing experimental features and updates that are actively in progress. The mod in this branch may be unstable, incomplete, or undergo significant changes without notice.
+# Use with caution. For a stable experience, please use the main branch.
 
 ![image](https://i.imgur.com/Pc5DssS.png)
 
 
-# DEPENDENCIES
+### DEPENDENCIES
 
 - [JNSQ](https://forum.kerbalspaceprogram.com/topic/184880-1121-jnsq-0100-23-sept-2021/)
 - [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
 - [EVE Release 4 & Scatterer](https://www.patreon.com/blackrack)
 
 
-# RECOMMENDED MODS
+### RECOMMENDED MODS
 
 - [JNSQ_ParallaxScatters](https://github.com/coldrifting/JNSQ_ParallaxScatters/releases)
 
 
-# INSTALLATION
+### INSTALLATION
 
 
 - Install JNSQ and it's dependencies.
@@ -32,7 +31,7 @@ Volumetric clouds & new atmospheres for JNSQ
 - Have fun!
 
 
-# CREDITS
+### CREDITS
 
 
 
