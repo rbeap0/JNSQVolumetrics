@@ -1,5 +1,5 @@
 # JNSQ Volumetrics
-True Volumetric clouds & new atmospheres for JNSQ
+*True Volumetric clouds & new atmospheres for JNSQ*
 
 ![image](https://i.imgur.com/Pc5DssS.png)
 
